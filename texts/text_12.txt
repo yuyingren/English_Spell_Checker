@@ -1,0 +1,5 @@
+The great comedian in pictorial art forms one of the subjects of Mrs. Hall's sketches, in the Pilgrimages to English Shrines, and we think her article upon visiting his tomb as interesting as any in this popular series :
+The great comedian in pictorial art forms one of the subjects of Mrs. Hall's sketches, in the Pilgrimages to English Shrines, aand we think her article upon visiting his tomb as interesting as any in thi popular series :
+[('and', 'aand', 24), ('this', 'thi', 38)]
+['aand', 'thi']
+[('and', 'and'), ('this', 'this')]
