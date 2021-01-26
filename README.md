@@ -14,6 +14,10 @@ For each file, it contains:
 
 (3) a list of pairs of correct words in the original text and errors in the error text, and their indexes in the text --- the answer sheet.
 
+Above 3 items are obtained from error_simulation.py.
+
 (4) a list of all the errors detected by the system, including the simulated errors and out of vocabulary words.
 
 (5) result list: pairs of the original correct words and the corrections made by the system.
+
+(4) and (5) are obtained from spell_checker.py.
