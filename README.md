@@ -1,6 +1,6 @@
 # English_Spell_Checker
 Data:
-text data for bi/trigram corpus and the test: https://www.gutenberg.org/files/29246/29246-h/29246-h.htm#LIFE_AT_A_WATERING_PLACE
+text data for bi/trigram corpus and the test is The International Monthly, Volume 3, No. 2, May, 1851(downloaded from Project Gutenberg Ebook): https://www.gutenberg.org/files/29246/29246-h/29246-h.htm#LIFE_AT_A_WATERING_PLACE
 
 English dictionary: https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt
 
