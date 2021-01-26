@@ -4,7 +4,9 @@ text data for bi/trigram corpus and the test is The International Monthly, Volum
 
 English dictionary: https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt
 
-The "texts" file contains 20 text files that are used to test this system.
+The "texts" file contains 20 files that are used to test this system.
+
+(The 20 files are the first 20 lines of the text data, each line contains at least one paragraph of the ariticles.)
 
 For each file, it contains: 
 
